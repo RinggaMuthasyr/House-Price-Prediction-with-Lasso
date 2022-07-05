@@ -5,3 +5,5 @@ Lasso regression or Least Absolute Shrinkage and Selection Operator regression i
 # What are the advantages of Lasso Regression?
 - It protects the model from overfitting.
 - It eliminates the coefficients (shrinks to zero) with the help of automatic variable selection for the models
+# Still don't understand this project?
+You can visit the following link:https://www.linkedin.com/posts/ringga-prasetya_house-price-prediction-with-lasso-regression-activity-6949923933206773760-aFwS?utm_source=linkedin_share&utm_medium=member_desktop_web
